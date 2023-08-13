@@ -53,7 +53,7 @@ class _OperacionState extends State<Operacion> {
   uploadEmg(double value) async {
     if (_tipo == "cell") {
       await _dbSensor.update({
-        "emg_basico": (value * 1000).toInt(),
+        "emg_basico": (value * 100).toInt(),
       });
     }
   }
@@ -61,7 +61,7 @@ class _OperacionState extends State<Operacion> {
   uploadMyo(double value) async {
     if (_tipo == "cell") {
       await _dbSensor.update({
-        "myo_ware": (value * 1000).toInt(),
+        "myo_ware": (value * 100).toInt(),
       });
     }
   }
