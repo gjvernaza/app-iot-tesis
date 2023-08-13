@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>526785963964-gmfmn91plafo2gg2krcfpp8is6a7ffbq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526785963964-gmfmn91plafo2gg2krcfpp8is6a7ffbq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAf7LhyZLRgSM05572ydLm2u_4lWNuJrDc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526785963964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appIotTesis.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>app-iot-tesis-b97c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-iot-tesis-b97c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526785963964:ios:76a69d0264144f57e86db9</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623153253321",
+    "firebase_url": "https://app-iot-tesis-default-rtdb.firebaseio.com",
+    "project_id": "app-iot-tesis",
+    "storage_bucket": "app-iot-tesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623153253321:android:5b94798be118a8e36cb618",
+        "android_client_info": {
+          "package_name": "com.example.app_iot_tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623153253321-k3cb2gkqun08l2897374jn5stmanphdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GgBGr1pfVmFMlX4EiEfqQ8DWCujWW90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623153253321-k3cb2gkqun08l2897374jn5stmanphdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
